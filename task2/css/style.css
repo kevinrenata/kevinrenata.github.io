@@ -51,9 +51,9 @@ ul {
 	margin-right: 100px;
 	margin-left: 100px;
 }
-/*box01*/
+/*gNav*/
 .gNav{	
-	background-image: url(../image/slider_01.jpg);
+	background-image: url(..image/slider_01.jpg);
 	background-repeat:no-repeat;
 	background-size: cover;
 }
@@ -112,7 +112,7 @@ ul {
   	margin: 4px 2px;
   	cursor: pointer;
 }
-/*end box01*/
+/*gNav end*/
 
 /*box02*/
 .about{
