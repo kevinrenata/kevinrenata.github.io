@@ -47,14 +47,14 @@ ul {
 .header{
 	height: 670px;
 }
-.wrap_inner{
+.gNav{
 	margin-right: 100px;
 	margin-left: 100px;
 }
-/*gNav*/
-.gNav{	
+/*wrap_inner*/
+.wrap_inner{	
 	background-image: url(..image/slider.jpg);
-	background-repeat:no-repeat;
+	background-repeat: no-repeat;
 	background-size: cover;
 }
 
@@ -112,7 +112,7 @@ ul {
   	margin: 4px 2px;
   	cursor: pointer;
 }
-/*gNav end*/
+/*wrap_inner end*/
 
 /*box02*/
 .about{
@@ -164,7 +164,7 @@ ul {
 	width: 50%;
 	float: left;
 	background-image: url(../image/skill.png);
-		background-repeat:no-repeat;
+	background-repeat:no-repeat;
 	background-size: cover;
 }
 .progress{
