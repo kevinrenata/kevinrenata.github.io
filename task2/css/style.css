@@ -53,7 +53,7 @@ ul {
 }
 /*box01*/
 .gNav{	
-	 background-image: url(../images/slider_01.jpg);
+	 background-image: url(../image/slider_01.jpg);
 		background-repeat:no-repeat;
 	background-size: cover;
 }
@@ -163,7 +163,7 @@ ul {
 	margin: auto;
 	width: 50%;
 	float: left;
-	background-image: url(../images/skill.png);
+	background-image: url(../image/skill.png);
 		background-repeat:no-repeat;
 	background-size: cover;
 }
