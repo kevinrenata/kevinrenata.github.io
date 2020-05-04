@@ -83,21 +83,21 @@ ul {
 	text-decoration: none;
 	color: #58d4d0;
 }
-.banner{
+.textTop{
 	position: absolute;
 	top: 200px;
     right: 200px;
 }
-.banner h1{
+.textTop h1{
 	font-size: 38px;
 	color: #1d1d1d;
 	font-weight: bold;
 }
-.banner p{
+.textTop p{
 	color: #000;
 	font-weight: 600;
 }
-.banner a{
+.textTop a{
 	margin-top: 43px;
 }
 .button{
