@@ -47,17 +47,17 @@ ul {
 .header{
 	height: 670px;
 }
-.gNav{
-	margin-right: 100px;
-	margin-left: 100px;
-}
+
 /*wrap_inner*/
 .wrap_inner{	
 	background-image: url(..image/slider.jpg);
 	background-repeat: no-repeat;
 	background-size: cover;
 }
-
+.gNav{
+	margin-right: 100px;
+	margin-left: 100px;
+}
 .logo{
 	float: left;
 	margin-top: 30px;
