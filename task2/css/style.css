@@ -49,7 +49,7 @@ ul {
 }
 
 /*wrap_inner*/
-.wrap_inner{
+.innerWrap_01{
 	background: url("../image/slider.jpg");
 	background-repeat: no-repeat;
 	background-size: cover;
@@ -114,56 +114,60 @@ ul {
 }
 /*wrap_inner end*/
 
-/*box02*/
-.about{
+/*aboutUs*/
+.innerWrap_02{
 	height: 420px;
 }
-.box02{
+.aboutUs{
 	margin: auto;
 	width: 700px;
-	height: 221px;
 	line-height: 30px;
 	padding-top: 100px;
-	padding-bottom: 100px;
 	text-align: center;
 }
-.box02 h2{
+.aboutUs h2{
 	font-size: 38px;
 	margin-bottom: 40px;
 }
-.box02 p{
+.aboutUs p{
 	font-size: 18px;
 	color: #a2a2a2;
 }
-.box02 img{
+.aboutUs img{
 	margin-top: 30px;
     margin-bottom: 40px;
+    height:58px;
+    width:222px;
 }
-/*end box02*/
+/*aboutUs end*/
 
-/*box03*/
-.box03{
+/*innerWrap_03*/
+.innerWrap_03{
 	height: 570px;
 	margin: auto;
 	width: auto;
 }
-.box03_left{
+.left{
 	height: 570px;
 	margin: auto;
 	width: 50%;
 	float: left;
 	background-color: #f8f9f9;
 }
-.box03_left h2{
+.leftMargin{
+	margin-right: 98px;
+	margin-left: 85px;
+}
+.left h2{
 	font-size: 30px;
 	margin-top: 160px;
 }
-.box03_right{
+.right{
 	height: 570px;
 	margin: auto;
 	width: 50%;
 	float: left;
-	background-image: url(../image/skill.png);
+	background-image: url(../image/coding.jpg);
 	background-repeat:no-repeat;
 	background-size: cover;
 }
@@ -175,7 +179,8 @@ ul {
 	font-family: Cambria, "Hoefler Text";
 	margin-bottom: 15px;
 }
-/*end box03*/
+/*innerWrap_03 end*/
+
 /*box04*/
 .box04{
 	padding:100px;
